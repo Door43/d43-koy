@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[koy:home|Door43 (koy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-koy|d43-koy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-koy/archive/master.zip|d43-koy.zip]]
+
+**Recent Changes**
+{{changes>ns = koy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/koy|Ethnologue data]]
+
